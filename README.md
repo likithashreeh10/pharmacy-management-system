@@ -43,10 +43,6 @@ C:\xampp\htdocs\pharmacy-management-system\
 5. 🌐 Open the app in your browser:
 http://localhost/pharmacy-management-system/
 
-Copy code
-```bash
-git clone https://github.com/likithashreeh10/pharmacy-management-system.git
-
 ## 🖼️ Screenshots
 
 ### 🔐 Login Page
